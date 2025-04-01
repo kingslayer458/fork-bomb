@@ -15,7 +15,8 @@ This is a simple Tkinter-based login system with a fun twist. If the user enters
 ## How to Use
 1. Run the script:
    ```sh
-   python script.py
+   python sas.py
+   python sas2.py
    ```
 2. Enter a name and password.
 3. If the correct password (`python`) is entered, a welcome message appears.
